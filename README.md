@@ -29,5 +29,10 @@ From the command line, run cordova run platform name.
 [Customize app icons](https://cordova.apache.org/docs/en/latest/config_ref/images.html) <br>
 [Configure Your App](https://cordova.apache.org/docs/en/latest/config_ref/) <br>
 
+<h2>screenshot</h2>
+
+![alt tag](https://1.bp.blogspot.com/-qXlMILCSkRA/WPiWBCRmZgI/AAAAAAAABXU/v2EZj3IL58QbZPLsGocNTwbX615CbhZkgCLcB/s1600/cordova.png)
+
+
     
  
